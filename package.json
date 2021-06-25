@@ -1,0 +1,21 @@
+{
+  "name": "tracing-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5",
+    "jest-playwright-preset": "^1.6.1",
+    "playwright": "^1.12.2"
+  },
+  "dependencies": {
+    "jest-circus": "^27.0.5",
+    "ts-jest": "^27.0.3"
+  }
+}
