@@ -5,6 +5,5 @@ module.exports = {
       '^.+\\.ts$': 'ts-jest',
     },
     setupFiles: [],
-    testEnvironment: './customEnvironment.js',
     testRunner: "jest-circus/runner"
   }
